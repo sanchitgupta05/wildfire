@@ -3,3 +3,7 @@
 - Scale window
 - Wordwrap on wall/friend list
 
+
+
+
+
